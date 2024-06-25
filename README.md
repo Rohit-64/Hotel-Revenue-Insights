@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hotel Revenue Dashboard</title>
 </head>
 <body>
     <h1>Hotel Revenue Dashboard</h1>
@@ -32,7 +31,7 @@
         <li><strong>Design the dashboard:</strong>
             <p>I arranged the visuals in a logical layout and used formatting options to make the dashboard visually appealing and easy to read.</p>
         </li>
-      <img src="C:\Users\das20\Documents\DA Hospitality Domain\hotelRev.png" alt="Dashboard Overview">
+      <img src="hotelRev.png" alt="Dashboard Overview">
         <li><strong>Save and publish:</strong>
             <p>Finally, I saved the report. To share it, I clicked 'Publish' in Power BI Desktop to publish the dashboard to the Power BI service.</p>
         </li>
